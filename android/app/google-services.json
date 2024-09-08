@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "140614780121",
+    "project_id": "webmobril-bd2ea",
+    "storage_bucket": "webmobril-bd2ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140614780121:android:ded36b462e5deaa1792ac8",
+        "android_client_info": {
+          "package_name": "com.example.webmobril_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD-kmkpIV6QzHmxYpWAQjTCqsd1kEGvl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
